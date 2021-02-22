@@ -1,4 +1,4 @@
-<!--styles for my resume!-->
+/*styles for my resume*/
 
 body {
   font-family: 'Open Sans';, Arial, sans-serif;
@@ -7,20 +7,20 @@ body {
   font-weight: 400;
 }
 
-<!--styles for my resume!-->
+/*Name*/
 h1 {
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
 }
 
-<!--styles for my resume!-->
+/*Title*/
 strong{
   font-size 1.5em;
   color: #33485e;
 }
 
-<!--styles for my resume!-->
+/*Section*/
 h2 {
   font-size: 3em;
   color: #ffffff;
@@ -29,20 +29,213 @@ h2 {
   text-transform: uppercase;
 }
 
-<!--styles for my resume!-->
+/*Title*/
 h3 {
   font-size: 1.5em;
   font-weight: 600;
 }
 
-<!--styles for my resume!-->
+/*Organization*/
 h4 {
   font-size: 1.5em;
   font-weight: 400;
 }
 
-<!--styles for my resume!-->
+/*-Date*/
 h5 {
   font-size: 1em;
   font-style: italic;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Section*/
+h2 {
+  font-size: 3em;
+  color: #ffffff;
+  background-color: #33485e;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/*Title*/
+h3 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+h4 {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+/*-Date*/
+h5 {
+  font-size: 1em;
+  font-style: italic;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Section*/
+h2 {
+  font-size: 3em;
+  color: #ffffff;
+  background-color: #33485e;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/*Title*/
+h3 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+h4 {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+/*-Date*/
+h5 {
+  font-size: 1em;
+  font-style: italic;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Section*/
+h2 {
+  font-size: 3em;
+  color: #ffffff;
+  background-color: #33485e;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/*Title*/
+h3 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+h4 {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+/*-Date*/
+h5 {
+  font-size: 1em;
+  font-style: italic;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Section*/
+h2 {
+  font-size: 3em;
+  color: #ffffff;
+  background-color: #33485e;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/*Title*/
+h3 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+h4 {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+/*-Date*/
+h5 {
+  font-size: 1em;
+  font-style: italic;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Section*/
+h2 {
+  font-size: 3em;
+  color: #ffffff;
+  background-color: #33485e;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/*Title*/
+h3 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+h4 {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+/*-Date*/
+h5 {
+  font-size: 1em;
+  font-style: italic;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Section*/
+h2 {
+  font-size: 3em;
+  color: #ffffff;
+  background-color: #33485e;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Section*/
+h2 {
+  font-size: 3em;
+  color: #ffffff;
+  background-color: #33485e;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
 }
