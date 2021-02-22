@@ -7,6 +7,13 @@ body {
   font-weight: 400;
 }
 
+#container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
 /*Name*/
 #name {
   font-size: 3em;
@@ -19,37 +26,182 @@ body {
   margin: 0 auto;
 }
 
+/* contact info*/
+.menu {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+}
+
 /*Title*/
-strong{
-  font-size 1.5em;
+#title{
+  font-size: 1.5em;
+  font-weight: 600;
   color: #33485e;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/*my current description*/
+.description {
+  margin-top: 10px;
+  margin-bottom:10px;
 }
 
 /*Section*/
 .sectionheader {
-  font-size: 3em;
+  font-size: 1.5em;
   color: #ffffff;
   background-color: #33485e;
   font-weight: 400;
   text-transform: uppercase;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 70%;
+  min-width: 300px;
 }
 
 /*Title*/
-h3 {
+.jobtitle {
   font-size: 1.5em;
   font-weight: 600;
 }
 
 /*Organization*/
-h4 {
-  font-size: 1.5em;
+.organization {
+  font-size: 1.25em;
   font-weight: 400;
 }
 
 /*-Date*/
-h5 {
+.date {
   font-size: 1em;
   font-style: italic;
+  margin-top: 5px;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Title*/
+.jobtitle {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+.organization {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+/*-Date*/
+.date {
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Title*/
+.jobtitle {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+.organization {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+/*-Date*/
+.date {
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Title*/
+.jobtitle {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+.organization {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+/*-Date*/
+.date {
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Title*/
+.jobtitle {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+.organization {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+/*-Date*/
+.date {
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+/*--title*/
+ul{
+  font-size: 1em;
+}
+
+/*Title*/
+.jobtitle {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+/*Organization*/
+.organization {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+/*-Date*/
+.date {
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 5px;
 }
 
 /*--title*/
@@ -59,29 +211,15 @@ ul{
 
 /*Section*/
 .sectionheader {
-  font-size: 3em;
+  font-size: 1.5em;
   color: #ffffff;
   background-color: #33485e;
   font-weight: 400;
   text-transform: uppercase;
-}
-
-/*Title*/
-h3 {
-  font-size: 1.5em;
-  font-weight: 600;
-}
-
-/*Organization*/
-h4 {
-  font-size: 1.5em;
-  font-weight: 400;
-}
-
-/*-Date*/
-h5 {
-  font-size: 1em;
-  font-style: italic;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 70%;
+  min-width: 300px;
 }
 
 /*--title*/
@@ -91,153 +229,15 @@ ul{
 
 /*Section*/
 .sectionheader {
-  font-size: 3em;
+  font-size: 1.5em;
   color: #ffffff;
   background-color: #33485e;
   font-weight: 400;
   text-transform: uppercase;
-}
-
-/*Title*/
-h3 {
-  font-size: 1.5em;
-  font-weight: 600;
-}
-
-/*Organization*/
-h4 {
-  font-size: 1.5em;
-  font-weight: 400;
-}
-
-/*-Date*/
-h5 {
-  font-size: 1em;
-  font-style: italic;
-}
-
-/*--title*/
-ul{
-  font-size: 1em;
-}
-
-/*Section*/
-h2 {
-  font-size: 3em;
-  color: #ffffff;
-  background-color: #33485e;
-  font-weight: 400;
-  text-transform: uppercase;
-}
-
-/*Title*/
-h3 {
-  font-size: 1.5em;
-  font-weight: 600;
-}
-
-/*Organization*/
-h4 {
-  font-size: 1.5em;
-  font-weight: 400;
-}
-
-/*-Date*/
-h5 {
-  font-size: 1em;
-  font-style: italic;
-}
-
-/*--title*/
-ul{
-  font-size: 1em;
-}
-
-/*Section*/
-h2 {
-  font-size: 3em;
-  color: #ffffff;
-  background-color: #33485e;
-  font-weight: 400;
-  text-transform: uppercase;
-}
-
-/*Title*/
-h3 {
-  font-size: 1.5em;
-  font-weight: 600;
-}
-
-/*Organization*/
-h4 {
-  font-size: 1.5em;
-  font-weight: 400;
-}
-
-/*-Date*/
-h5 {
-  font-size: 1em;
-  font-style: italic;
-}
-
-/*--title*/
-ul{
-  font-size: 1em;
-}
-
-/*Section*/
-h2 {
-  font-size: 3em;
-  color: #ffffff;
-  background-color: #33485e;
-  font-weight: 400;
-  text-transform: uppercase;
-}
-
-/*Title*/
-h3 {
-  font-size: 1.5em;
-  font-weight: 600;
-}
-
-/*Organization*/
-h4 {
-  font-size: 1.5em;
-  font-weight: 400;
-}
-
-/*-Date*/
-h5 {
-  font-size: 1em;
-  font-style: italic;
-}
-
-/*--title*/
-ul{
-  font-size: 1em;
-}
-
-/*Section*/
-h2 {
-  font-size: 3em;
-  color: #ffffff;
-  background-color: #33485e;
-  font-weight: 400;
-  text-transform: uppercase;
-}
-
-/*--title*/
-ul{
-  font-size: 1em;
-}
-
-/*Section*/
-h2 {
-  font-size: 3em;
-  color: #ffffff;
-  background-color: #33485e;
-  font-weight: 400;
-  text-transform: uppercase;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 70%;
+  min-width: 300px;
 }
 
 /*--title*/
