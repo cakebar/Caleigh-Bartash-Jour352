@@ -1,0 +1,58 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+#masthead {
+  font-size: 72px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #8b0000;
+  text-align: center;
+}
+
+h1{
+  font-family: Helvetica, sans-serif;
+  font-style: bold;
+  font-size: 36px;
+  border-bottom: 2px solid;
+  margin: 5 auto;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+figure{
+text-align: left;
+margin: auto;
+display: block;
+vertical-align: middle;
+}
+
+figcaption{
+  color: #696969;
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+blockquote{
+font-size: 26px;
+font-family: Georgia, serif;
+color: #8b0000;
+}
+
+p{
+  font-size: 13px;
+  font-family: Georgia, serif;
+}
+
+h3{
+  text-align: center;
+}
+
+#more{
+  text-align: center;
+}
