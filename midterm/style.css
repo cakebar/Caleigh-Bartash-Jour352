@@ -1,0 +1,62 @@
+/*so very tired but I know how to comment*/
+p{
+  font-family: Helvetica,Arial,sans-serif;
+  font-size:12px
+}
+
+h3{
+font-size: 15px;
+}
+
+figure{
+  display: inline-block;
+  text-align: left;
+}
+
+/*div container for the whole body*/
+#layout {
+  align-content: center;
+  width: 750px;
+  margin: auto;
+}
+
+h1{
+  font-size: 30px;
+  font-family: Times, Serif;
+}
+/*Soccer field inspired mastheadt*/
+#masthead{
+  font-size: 72px;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  background-color: #567d46;
+  background-size: contain;
+  text-align: center;
+}
+
+h3{
+  font-size: 20px;
+  font-family: Times,serif;
+}
+/*pull quote that matches masthead*/
+blockquote{
+  color: #567d46;
+font-size: 20px;
+}
+
+#more{
+  align-content: center;
+  width: 750px;
+  margin: auto;
+}
+
+h2{
+font-size: 20px;
+}
+
+.pic{
+  align-content: center;
+  width: 750px;
+  margin: auto;
+}
