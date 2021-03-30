@@ -60,3 +60,11 @@ font-size: 20px;
   width: 750px;
   margin: auto;
 }
+
+#byline {
+  font-size: 18px;
+}
+
+figcaption {
+  color: #555555;
+}
