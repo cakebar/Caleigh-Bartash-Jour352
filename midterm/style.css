@@ -1,11 +1,12 @@
 /*so very tired but I know how to comment*/
 p{
-  font-family: Helvetica,Arial,sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size:12px
 }
 
 h3{
 font-size: 15px;
+font-family: Times, serif;
 }
 
 figure{
@@ -22,17 +23,18 @@ figure{
 
 h1{
   font-size: 30px;
-  font-family: Times, Serif;
+  font-family: Times, serif;
 }
 
 h3{
   font-size: 20px;
-  font-family: Times,serif;
+  font-family: Times, serif;
 }
 /*pull quote that matches masthead*/
 blockquote{
   color: #567d46;
-font-size: 20px;
+  font-size: 20px;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 #more{
@@ -43,6 +45,7 @@ font-size: 20px;
 
 h2{
 font-size: 20px;
+font-family: Times, serif;
 }
 
 .pic{
@@ -53,8 +56,10 @@ font-size: 20px;
 
 #byline {
   font-size: 18px;
+  font-family: Times, serif;
 }
 
 figcaption {
   color: #555555;
+  font-family: Helvetica, Arial, sans-serif;
 }
