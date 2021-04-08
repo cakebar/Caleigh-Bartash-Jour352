@@ -46,6 +46,23 @@
   text-align: center;
 }
 
+#description{
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+
+#copyright {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'Volkhov', serif;
+  text-align: center;
+}
+
+.text{
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
 .share{
    padding-left: 20px;
    padding-right: 20px;
@@ -61,16 +78,6 @@ font-family: Arial, sans-serif;
   font-size: 20px;
   font-family: Arial, sans-serif;
 }
-.date {
-  font-size: 18px;
-  font-family: Arial, sans-serif;
-}
-
-.text {
-  color: 000000;
-  font-family: Arial, sans-serif;
-  font-size: 18px;
-}
 
 .resume{
   font-size: 22px;
@@ -79,9 +86,13 @@ font-family: Arial, sans-serif;
   text-align: center;
 }
 
-#copyright {
-  color: #48335A;
-  font-size: 15px;
-  font-family: 'Volkhov', serif;
-  text-align: center;
+.date {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+}
+
+.degree{
+  font-size: 20px;
+  font-family: Arial, sans-serif;
 }
