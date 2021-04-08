@@ -3,6 +3,7 @@
   font-size: 25px;
   color: #ffffff;
   background-color: #48335A;
+  text-transform: uppercase;
 }
 
 #title{
@@ -10,6 +11,7 @@
   font-size: 25px;
   color: #ffffff;
   background-color: #48335A;
+  text-transform: uppercase;
 }
 
 #education{
@@ -17,6 +19,7 @@
   font-size: 25px;
   color: #ffffff;
   background-color: #48335A;
+  text-transform: uppercase;
 }
 
 #skills{
@@ -24,6 +27,7 @@
   font-size: 25px;
   color: #ffffff;
   background-color: #48335A;
+  text-transform: uppercase;
 }
 
 #contact{
