@@ -1,0 +1,63 @@
+#experience{
+  font-family: 'Volkhov', serif;
+  font-size: 25px;
+  color: #ffffff;
+  background-color: #48335A;
+}
+
+#title{
+  font-family: 'Volkhov', serif;
+  font-size: 25px;
+  color: #ffffff;
+  background-color: #48335A;
+}
+
+#education{
+  font-family: 'Volkhov', serif;
+  font-size: 25px;
+  color: #ffffff;
+  background-color: #48335A;
+}
+
+#skills{
+  font-family: 'Volkhov', serif;
+  font-size: 25px;
+  color: #ffffff;
+  background-color: #48335A;
+}
+
+#contact{
+  font-family: 'Volkhov', serif;
+  font-size: 25px;
+  color: #48335A;
+}
+
+#layout{
+  margin: 0 auto;
+  width: 900px;
+}
+
+#nav {
+  font-family: 'Volkhov', serif;
+}
+
+.jobtitle {
+font-size: 22px;
+font-weight: bold;
+font-family: Arial, sans-serif;
+}
+
+.organization {
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+.date {
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+.text {
+  color: 000000;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
