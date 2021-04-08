@@ -41,6 +41,16 @@
   font-family: 'Volkhov', serif;
 }
 
+#social{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.share{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
 .jobtitle {
 font-size: 22px;
 font-weight: bold;
@@ -60,4 +70,18 @@ font-family: Arial, sans-serif;
   color: 000000;
   font-family: Arial, sans-serif;
   font-size: 18px;
+}
+
+.resume{
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#copyright {
+  color: #48335A;
+  font-size: 15px;
+  font-family: 'Volkhov', serif;
+  text-align: center;
 }
