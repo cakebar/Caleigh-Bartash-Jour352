@@ -6,14 +6,6 @@
   text-transform: uppercase;
 }
 
-#title{
-  font-family: 'Volkhov', serif;
-  font-size: 25px;
-  color: #ffffff;
-  background-color: #48335A;
-  text-transform: uppercase;
-}
-
 #education{
   font-family: 'Volkhov', serif;
   font-size: 25px;
@@ -53,6 +45,8 @@
 #description{
   font-size: 20px;
   font-family: Arial, sans-serif;
+  border-top: 2px;
+  border-color: #48335A;
 }
 
 #copyright {
