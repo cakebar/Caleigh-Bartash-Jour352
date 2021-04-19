@@ -1,0 +1,12 @@
+
+.container {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+
+
+#header {
+  max-width: 900px;
+  width: 100%;
+}
