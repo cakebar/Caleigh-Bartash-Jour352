@@ -1,5 +1,5 @@
 body {
-  background-color: #f4e9f9;
+  background-color: #d2b3d6;
 }
 
 
@@ -13,13 +13,23 @@ padding-left: 20px;
 padding-right: 20px;
 }
 
+#pi iframe{
+  float: left;
+  padding-right: 1em;
+}
+
+#pie iframe{
+  float: left;
+  padding-right: 1em;
+}
+
 #footer img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.header img {
+#header img {
   max-width: 800px;
   width: 100%;
   display: block;
@@ -31,11 +41,6 @@ padding-right: 20px;
 font-family: "Volkhov", Helvetica, serif;
 }
 
-.pie iframe {
- width: 100%;
- display: block;
-}
-
 #bar{
   display: block;
   margin-left: auto;
@@ -44,6 +49,7 @@ font-family: "Volkhov", Helvetica, serif;
 
 #time{
   max-width: 800px;
+  width: 100%;
 }
 
 .intro-pic img {
@@ -53,19 +59,67 @@ font-family: "Volkhov", Helvetica, serif;
 
 .block {
   color: #301934;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-style: italic;
   font-family: "Volkhov", Helvetica, serif;
-}
+  width:100%;
+  margin: 30px auto;
+  color: #555555;
+  padding:.4em 20px .4em 50px;
+  border-left:8px solid #301934;
+  line-height:1.6;
+  position: relative;
+  background: #F5F5F5;
+  }
+
+  .block::before{
+    font-family: "Volkhov", Helvetica, serif;
+    content: "\201C";
+    color: #301934;
+    position: absolute;
+    left: 1em;
+    top:-1em;
+  }
+
+  .block span{
+    display:block;
+    color:#301934;
+    font-style: normal;
+    font-weight: bold;
+    font-size: .9em;
+    margin-top:.5em;
+  }
 
 figcaption {
   color: #696969;
   font-family: Arial, sans-serif;
+  font-size: .9em;
+}
+
+#nav {
+  display:block;
+ position: sticky;
+ top:0;
+ left:0;
+ right:0;
+ width:100%;
 }
 
 #more{
-  align-content: center;
-  width: 750px;
-  margin: auto;
+  width: 100%;
+  max-width:750px
+  margin: 0 auto;
   font-family: "Volkhov", Helvetica, serif;
+}
+
+#footer img{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
+}
+
+#video iframe{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
 }
