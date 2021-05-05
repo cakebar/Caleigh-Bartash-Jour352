@@ -27,11 +27,13 @@ padding-right: 20px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 800px;
+  max-width: 100%;
 }
 
 #header img {
-  max-width: 800px;
-  width: 100%;
+  max-width: 100%;
+  width: 800px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -48,13 +50,13 @@ font-family: "Volkhov", Helvetica, serif;
 }
 
 #time{
-  max-width: 800px;
-  width: 100%;
+  max-width: 100%;
+  width: 800px;
 }
 
 .intro-pic img {
-  max-width: 800px;
-  width: 100%;
+  max-width: 100%;
+  width: 800px;
 }
 
 .block {
@@ -62,7 +64,8 @@ font-family: "Volkhov", Helvetica, serif;
   font-size: 1.3em;
   font-style: italic;
   font-family: "Volkhov", Helvetica, serif;
-  width:100%;
+  max-width: 100%;
+  width: 800px;
   margin: 30px auto;
   color: #555555;
   padding:.4em 20px .4em 50px;
@@ -74,7 +77,6 @@ font-family: "Volkhov", Helvetica, serif;
 
   .block::before{
     font-family: "Volkhov", Helvetica, serif;
-    content: "\201C";
     color: #301934;
     position: absolute;
     left: 1em;
@@ -107,7 +109,7 @@ figcaption {
 
 #more{
   width: 100%;
-  max-width:750px;
+  max-width:800px;
   margin: 0 auto;
   font-family: "Volkhov", Helvetica, serif;
   font-size: .95em;
@@ -115,14 +117,14 @@ figcaption {
 
 #footer img{
   margin: 0 auto;
-  width: 100%;
-  max-width: 800px;
+  width: 800px;
+  max-width: 100%;
 }
 
 #video iframe{
   margin: 0 auto;
-  width: 100%;
-  max-width: 800px;
+  max-width: 100%;
+  width: 800px;
 }
 
 
