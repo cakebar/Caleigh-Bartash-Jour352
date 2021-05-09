@@ -39,6 +39,7 @@ padding-right: 20px;
 
 #hed {
 font-family: "Volkhov", Helvetica, serif;
+font-size: 2em;
 }
 
 #bar{
@@ -132,6 +133,7 @@ figcaption {
 
 #byline{
   font-family: Arial,sans-serif;
+  font-size: 1.1em;
 }
 
 #player{
